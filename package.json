@@ -1,0 +1,18 @@
+{
+  "name": "w3-unittesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/heroes.js",
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.6",
+    "typescript": "^4.9.4",
+    "vitest": "^0.28.3"
+  }
+}
